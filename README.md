@@ -32,7 +32,7 @@ less解析器，
 安装项目
 npm install
 启动项目
-npm run dev
+npm run serve
 项目打包
 npm run build
 
