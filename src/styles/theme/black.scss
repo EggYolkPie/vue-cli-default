@@ -1,0 +1,94 @@
+.theme-black {
+    .avue-contail {
+        background-color: #002253!important;
+    }
+    .el-card {
+        opacity: .9;
+    }
+    .top {
+        .el-dropdown {
+            color: #ff929a;
+            i {
+                color: #ff929a;
+            }
+        }
+        .top-item {
+            i {
+                color: #ff929a;
+            }
+        }
+    }
+    .avue-tabs {
+        padding: 0 20px !important;
+    }
+    .sidebar-container,
+    .logo,
+    .el-menu-item,
+    .el-submenu__title,
+    .el-menu {
+        background-color: transparent !important
+    }
+    .logo_title,
+    .tags-breadcrumb,
+    {
+        color: #ff929a !important;
+        i {
+            color: #ff929a;
+        }
+    }
+    .el-menu--horizontal>.el-menu-item.is-active {
+        color: #ffb870 !important;
+        border-bottom: none;
+    }
+    .el-color-picker__trigger {
+        border: 1px solid #ff929a !important;
+    }
+    .top {
+        border-bottom: none;
+    }
+    .tags-menu {
+        background: #002253 !important;
+    }
+    .tag-item {
+        color: #ff929a !important;
+        border: 1px solid #ff929a!important;
+        background: hsla(0, 0%, 100%, .05) !important;
+        .tag-item-icon {
+            color: #ff929a !important;
+        }
+        &.is-active {
+            color: #ffb870 !important;
+            border: 1px solid #ffb870 !important;
+            .tag-item-icon {
+                color: #ffb870 !important;
+            }
+        }
+    }
+    .nest-menu .el-submenu>.el-submenu__title:hover,
+    .el-submenu .el-menu-item:hover {
+        background: hsla(0, 0%, 100%, .05) !important;
+    }
+    .el-menu--vertical {
+        background-color: #002253!important;
+    }
+    .el-menu-item {
+        &.is-active,
+        &.siderbar-active {
+            background: hsla(0, 0%, 100%, .05)!important;
+            span,
+            i {
+                color: #ffb870 !important;
+            }
+        }
+        color: #ff929a !important;
+        i {
+            color: #ff929a !important;
+        }
+    }
+    .el-submenu__title {
+        color: #ff929a !important;
+        i {
+            color: #ff929a !important;
+        }
+    }
+}
