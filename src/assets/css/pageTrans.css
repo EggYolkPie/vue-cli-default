@@ -1,0 +1,563 @@
+.add-step-btn, .add-website-btn, .add-website-btn:hover, .remove-website-btn, .remove-website-btn:hover, .trans-path-close-btn, .trans-path-close-btn:hover, .trans-record-title em {
+  background-repeat: no-repeat
+}
+
+.add-step-btn, .add-website-btn, .add-website-btn:hover, .open em, .remove-website-btn, .remove-website-btn:hover, .trans-path-close-btn, .trans-path-close-btn:hover, .trans-record-title em {
+  background-image: url(decorator/trans-1988001b82b1db43eb0708df3c9f2914.png);
+
+}
+
+.trans-path-wrapper, li .url {
+  overflow: hidden
+}
+
+
+.content-header {
+  font-size: 14px;
+  height: 30px;
+  line-height: 30px
+}
+
+.content-header .title {
+  font-size: 14px;
+  font-weight: 600
+}
+
+.mark-way {
+  margin-right: 10px
+}
+
+.radius-btn {
+  margin-top: 4px;
+  margin-left: 16px
+}
+
+
+.trans-target-content {
+  margin: 20px;
+  padding: 20px;
+  border-radius: 3px;
+  background-color: #fff
+}
+
+.trans-buttons-wrapper {
+  padding-top: 10px;
+  margin-bottom: 10px
+}
+
+.trans-target-description-title, .trans-target-setting-title {
+  padding-left: 10px;
+  font-size: 14px;
+  height: 14px;
+  line-height: 14px;
+  border-left: 6px solid #2c90ee
+}
+
+.trans-target-description-content, .trans-target-setting-content {
+  padding: 20px 0 0 30px
+}
+
+.trans-path-name, .trans-profit-detail input, .trans-step-name, .trans-target-name, .trans-target-type-other, .trans-url {
+  border: 1px solid #d1d5d6;
+  border-radius: 3px;
+  height: 24px;
+  line-height: 24px;
+  outline: 0;
+  padding-left: 10px
+}
+
+#trans-profit-input:hover, .trans-path-name:hover, .trans-step-name:hover, .trans-target-name:hover, .trans-target-type-other:hover, .trans-url:hover {
+  border-color: #63666b
+}
+
+#trans-profit-input:focus, .trans-path-name:focus, .trans-step-name:focus, .trans-target-name:focus, .trans-target-type-other:focus, .trans-url:focus {
+  border-color: #2c90ee;
+  -webkit-box-shadow: 0 0 3px rgba(61, 164, 236, .7);
+  box-shadow: 0 0 3px rgba(61, 164, 236, .7)
+}
+
+:invalid {
+  -webkit-box-shadow: none;
+  box-shadow: none
+}
+
+.trans-target-item, .trans-target-record-title, .trans-target-website-title {
+  margin-bottom: 20px;
+  height: 24px;
+  line-height: 24px
+}
+
+.trans-target-name {
+  margin-left: 33px
+}
+
+.input-width-bg {
+  width: 400px
+}
+
+.input-width-md {
+  width: 374px
+}
+
+.input-width-sm {
+  width: 160px
+}
+
+.trans-target-type, .trans-target-website {
+  margin-left: 16px
+}
+
+.trans-path-step-check-btn {
+  margin-left: 0
+}
+
+.trans-target-type label {
+  margin-right: 25px
+}
+
+.trans-target-type input {
+  margin-bottom: 2px;
+  border: none
+}
+
+.trans-target-type-other {
+  margin-left: -15px;
+  width: 100px
+}
+
+.trans-target-description {
+  margin-bottom: 20px
+}
+
+.trans-target-setting-item {
+  margin-bottom: 15px
+}
+
+.trans-path-detail, .trans-profit-detail {
+  margin: 0 0 25px 85px
+}
+
+.trans-path-name-wrapper {
+  padding: 0 20px;
+  height: 60px;
+  line-height: 60px;
+  background-color: #f0f0f0;
+  border-bottom: 1px solid #e2e6e7
+}
+
+.trans-path-step-container {
+  padding: 15px 20px 20px
+}
+
+.trans-path-close-btn {
+  margin-top: 18px;
+  width: 24px;
+  height: 24px;
+  background-position: left -620px
+}
+
+.trans-path-close-btn:hover {
+  background-position: left -664px
+}
+
+.trans-path-title {
+  margin-bottom: 15px
+}
+
+.trans-path-website {
+  margin-bottom: 10px
+}
+
+.trans-target-setting-content a:hover {
+  text-decoration: none
+}
+
+.add-website-btn, .remove-website-btn {
+  display: inline-block;
+  margin-right: 6px;
+  width: 18px;
+  height: 18px;
+  line-height: 18px
+}
+
+.gray-circle-icon, .trans-path-step-other, .trans-path-step-title, .trans-record-title {
+  height: 24px;
+  line-height: 24px
+}
+
+.add-website-btn {
+  background-position: left -708px
+}
+
+.add-website-btn:hover {
+  background-position: left -746px
+}
+
+.remove-website-btn {
+  background-position: left -784px
+}
+
+.remove-website-btn:hover {
+  background-position: left -822px
+}
+
+.trans-target-website-note {
+  margin-left: 86px
+}
+
+.trans-path-step-website-wrapper .first {
+  width: 400px
+}
+
+.trans-path-step-website-wrapper .other, .trans-target-website-wrapper .other {
+  margin-left: 10px;
+  width: 374px
+}
+
+.trans-target-website-detail .other-item {
+  margin-left: 16px
+}
+
+.trans-target-website-wrapper .first {
+  margin-left: 16px;
+  width: 400px
+}
+
+.trans-path-title, .trans-profit-title {
+  margin-bottom: 15px;
+  height: 24px;
+  line-height: 24px
+}
+
+.trans-path-note, .trans-path-website-wrapper, .trans-profit-title-note {
+  margin-left: 10px
+}
+
+.trans-path-item {
+  margin-bottom: 18px;
+  background-color: #f9fafa;
+  border: 1px solid #dbdddf;
+  border-radius: 3px
+}
+
+.trans-path-name {
+  margin-left: 27px;
+  margin-top: 18px
+}
+
+.path-name-checkbox-width {
+  margin: 0 10px;
+  border: none
+}
+
+.trans-path-step-title {
+  margin-bottom: 20px
+}
+
+.trans-path-step-number {
+  width: 75px
+}
+
+.trans-path-step-name {
+  width: 22%
+}
+
+.trans-path-step-website {
+  width: 57%
+}
+
+.trans-path-step-check {
+  width: 12%
+}
+
+.trans-path-step-other {
+  width: 8%;
+  min-width: 48px
+}
+
+.gray-circle-icon {
+  display: inline-block;
+  width: 24px
+}
+
+.trans-path-step-website-wrapper, .trans-target-website-wrapper {
+  margin-bottom: 15px
+}
+
+.center {
+  text-align: center
+}
+
+.step-label {
+  display: inline-block;
+  width: 40px;
+  text-align: left
+}
+
+.step-website-label {
+  display: inline-block;
+  width: 24px;
+  text-align: right
+}
+
+.profit-input-width {
+  margin: 0 10px;
+  width: 70px
+}
+
+.add-step-btn {
+  display: inline-block;
+  height: 24px;
+  width: 24px;
+  background-position: left -860px
+}
+
+.gray {
+  color: #aeaeae
+}
+
+.trans-target-setting-note {
+  margin-left: 20px;
+  color: #a0a2a5
+}
+
+.trans-record-title {
+  margin-left: 16px;
+  width: 120px;
+  border: 1px solid #d1d5d6;
+  border-radius: 3px;
+  cursor: pointer
+}
+
+.trans-record-title span {
+  padding-left: 10px;
+  width: 115px
+}
+
+.trans-record-title em {
+  margin: -13px 10px 0 0;
+  width: 7px;
+  height: 4px;
+  background-position: left -904px
+}
+
+.trans-record-detail {
+  position: absolute;
+  margin-left: 85px;
+  padding: 8px 10px;
+  z-index: 9999;
+  width: 330px;
+  border: 1px solid #d1d5d6;
+  background-color: #fff
+}
+
+.trans-record-detail ul {
+  line-height: 2
+}
+
+.trans-record-detail input {
+  border: none
+}
+
+.trans-record-detail .gray {
+  margin-left: 20px
+}
+
+#add-order-number {
+  margin-left: 40px
+}
+
+.open em {
+  background-position: left -928px
+}
+
+li .url {
+  display: block;
+  height: 25px;
+  line-height: 25px;
+  padding: 0;
+  text-overflow: ellipsis;
+  white-space: nowrap
+}
+
+.trans-target-website-note .help {
+  top: 0;
+  margin-left: 0;
+  width: 64px;
+  background-image: none
+}
+
+.line {
+  border-bottom: 1px solid #f0f0f0
+}
+
+.trans-buttons {
+  margin-left: 85px
+}
+
+.msg-error {
+  color: #d61910
+}
+
+.trans-target-website-wrapper .trans-website-error {
+  display: none;
+  color: #d61910
+}
+
+.trans-path-step-website-wrapper .trans-website-error {
+  margin-top: 5px;
+  color: #d61910
+}
+
+.trans-target-website-wrapper .open {
+  display: block
+}
+
+.cross-domain-container {
+  padding-left: 10px
+}
+
+#cross-domain-input {
+  width: 288px
+}
+
+#cross-domain-err-msg {
+  margin-bottom: 10px;
+  height: 12px;
+  color: red
+}
+
+.cross-domain-btn {
+  margin-top: 10px;
+  text-align: right
+}
+
+.cross-domain-btn a {
+  margin-right: 10px
+}
+
+.footer {
+  margin: 0;
+  padding: 50px 0
+}
+
+.cross-domain-tip {
+  margin-bottom: 10px;
+  line-height: 25px;
+  color: #999
+}
+
+.trans-target-record-wrapper {
+  position: relative
+}
+
+.group input {
+  margin-right: 10px
+}
+
+.trans-message {
+  line-height: 2
+}
+
+.trans-path-title span, .trans-profit-title span, .trans-target-description-content span, .trans-target-record-wrapper .l span, .trans-target-website-title span {
+  color: #63666b
+}
+
+.group label, .trans-target-record-wrapper .trans-record-title .l {
+  color: #20242b
+}
+
+.trans-path-item .trans-path-name-wrapper .l {
+  color: #494c52
+}
+
+.trans-profit-note {
+  color: #a0a2a5
+}
+
+.site-select-wrapper {
+  padding-bottom: 20px;
+  background-color: #fff
+}
+
+.site-select-wrapper .select-title {
+  margin-right: 16px;
+  height: 20px;
+  line-height: 20px;
+  font-size: 14px
+}
+
+.site-select-wrapper .site-name {
+  padding-right: 20px;
+  height: 20px;
+  line-height: 20px
+}
+
+.no-auth-icon, .setting-success-content {
+  height: 30px;
+  background-image: url(decorator/trans-1988001b82b1db43eb0708df3c9f2914.png);
+  background-repeat: no-repeat
+}
+
+.site-select-wrapper .auth {
+  padding-left: 2px;
+  color: #090
+}
+
+.trans-path-step-wrapper .trans-path-step-check {
+  margin-top: 7px
+}
+
+a.btn-disabled {
+  color: #999;
+  cursor: default
+}
+
+.setting-success-container {
+  margin: 25px 0
+}
+
+.setting-success-content {
+  margin: 0 auto;
+  padding-left: 50px;
+  line-height: 30px;
+  width: 100px;
+  background-position: left -952px
+}
+
+.no-auth-icon {
+  margin-top: 15px;
+  width: 24px;
+  background-position: left -1002px
+}
+
+.no-auth-content {
+  margin-left: 35px
+}
+
+.no-auth-title {
+  margin-bottom: 10px;
+  font-size: 16px;
+  color: #d61910
+}
+
+.no-auth-text {
+  line-height: 20px
+}
+
+.trans-target-setting-item .line {
+  margin-left: -30px;
+  padding-top: 5px
+}
+
+.remove-step-btn, .trans-target-website-note a, .trans-website-error a {
+  color: #2c90ee
+}
+
+.trans-website-error .help {
+  top: 0
+}
+
+.trans-path-step-wrapper .trans-path-step-name, .trans-path-step-wrapper .trans-path-step-number, .trans-path-step-wrapper .trans-path-step-other, .trans-path-step-wrapper .trans-path-step-website-wrapper {
+  margin-top: 3px
+}
