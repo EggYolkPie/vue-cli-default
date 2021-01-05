@@ -19,7 +19,7 @@
   },
   "dependencies": {
     "@smallwei/avue": "^2.2.0",
-    "axios": "^0.16.2",
+    "axios": "^0.21.1",
     "compression": "^1.6.2",
     "driver.js": "^0.5.2",
     "echarts": "^4.1.0",
