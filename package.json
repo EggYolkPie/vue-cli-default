@@ -102,7 +102,7 @@
     "script-loader": "^0.7.2",
     "semver": "^5.3.0",
     "serve-favicon": "^2.4.5",
-    "shelljs": "^0.7.6",
+    "shelljs": "^0.8.5",
     "style-loader": "^0.21.0",
     "sw-precache-webpack-plugin": "^0.9.2",
     "uglifyjs-webpack-plugin": "^1.1.8",
